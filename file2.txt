@@ -1,0 +1,6 @@
+Hi I am creating repository and creating a new file b22-repo2
+add file1.txt andd some text and commit
+add file2.txt add some text
+
+observe the changes in GitHub
+do not forget to sve it
